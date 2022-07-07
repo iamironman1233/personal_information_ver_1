@@ -1,4 +1,4 @@
-# Web_info
+## Website tài khoản mạng xã hội cá nhân
 - Ý tưởng tạo web dựa trên card visit 1 chạm, phù hợp trong thời buổi dịch Covid-19.
 -  Có thể tích hợp web với thẻ từ kết hợp sẵn công nghệ NFC (gồm 2 chế độ đọc và viết).
 -  Website đã gồm chế độ khóa các phím chức năng quan trọng (viết bằng js).
