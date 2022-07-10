@@ -162,7 +162,16 @@
 			</div>
 		</div>
 	</main>
-	<script src=”main.js”></script>
+	<script>
+	$(document).ready(function() {
+		const e = $("body"),
+			n = $(".btn");
+		n.on("click", function() {
+			n.removeClass("active"), $(this).addClass("active"), e.toggleClass("dark")
+		})
+	});
+	</script>
+	<script src="main.js"></script>
 </body>
 	
 </html>
