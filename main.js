@@ -5,13 +5,6 @@ function clickIE4() {
 	function clickNS4(e) {
 		return !(document.layers || document.getElementById && !document.all) || 2 != e.which && 3 != e.which ? void 0 : !1
 	}
-	$(document).ready(function() {
-		const e = $("body"),
-			n = $(".btn");
-		n.on("click", function() {
-			n.removeClass("active"), $(this).addClass("active"), e.toggleClass("dark")
-		})
-	});
 	var message = "Haizz";
 	document.addEventListener("keydown", function(e) {
 		e.ctrlKey && e.preventDefault()
