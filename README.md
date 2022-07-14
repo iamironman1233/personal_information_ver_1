@@ -4,3 +4,5 @@
 - Website đã gồm chế độ khóa các phím chức năng quan trọng (viết bằng js).
 - Có chức năng `Darkmode`
 - Công nghệ NFC kết nối ở khoảng cách gần sẽ phát triển trong tương lai, vì vậy sở hữu website thông tin cá nhân là hoàn toàn cần thiết.
+
+### Lưu ý: beautify lại index.html tại [beautify-html](https://codebeautify.org/html-formatter-beautifier)
